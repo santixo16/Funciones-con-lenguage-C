@@ -13,5 +13,5 @@ PROBLEMA: se debe crear un programa en C implementando funciones que:
 5.Volumenes: Esfera, Cubo, Cono, Cilindro, Piramide de base cuadrada.
 6.Debe realizar funciones para esperar, validar el ingreso de los datos enteros o reales de acuerdo las necesidades presentadas.
 
-Siéntete libre de escribirme sobre alguna duda o sobre el proceso que realicé para escribir el código. Puedes contactarme via Discord
+Siéntete libre de escribirme sobre alguna duda o sobre el proceso que realicé para escribir el código. Puedes contactarme via Discord.
 Discord: santixo#0059
